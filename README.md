@@ -36,15 +36,3 @@ Approaches used
 ---------------
 
 In the project, Track.swift is responsible for storing and loading the properties, using NSCoding protocol. NSCoding was chosen due to its lightweight solution to store objects and other structures. The objects can be archived and retrieved any time later.
-
-Tested on:
-----------
-* iPhone 6s
-* Simulator:
-  * iPhones:
-    * iPhone 4s
-    * iPhone 5s
-    * iPhone 6s Plus
-  * iPads:  
-    * iPad Air 2
-    * iPad Retina
