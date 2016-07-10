@@ -13,15 +13,16 @@ __F-Music__ is an iOS app created specially for F-Secure to demonstrate skills i
    * "A randomly generated description text (200 characters long)" - __DONE__ _(used LoremSwiftum.framework for more realistic look of the text)_
 4. "App should be nice to look at" - I hope it is nice to look at so __DONE__
 5. "Support both landscape and portrait orientation" - __DONE__
-   * Add a new song
-   * Edit a song _(edit a title, artist name, change picture of a cover, change rating)_
-   * Delete a song
-   * Reordering the rows in a table view.
-   * Add rating to a song
 
 ###Bonus items:
-   * Unit test - __DONE__ _(To create a data model to store the data that the app must display, was created a Track class with Title of a song, Name of an artist, Rating, Cover of the album and Description. Unit test was added to test this class.)_
-   * Add more features - __DONE__ 
+1. Unit test - __DONE__ _(To create a data model to store the data that the app must display, was created a Track class with Title of a song, Name of an artist, Rating, Cover of the album and Description. Unit test was added to test this class.)_
+2. Add more features - __DONE__
+  * Add a new song
+  * Edit a song _(edit a title, artist name, change picture of a cover, change rating)_
+  * Delete a song
+  * Reordering the rows in a table view.
+  * Add rating to a song
+
 
 Frameworks used:
 ----------------
