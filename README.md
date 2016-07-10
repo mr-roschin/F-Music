@@ -1,6 +1,6 @@
 #F-Music
 --------
-__F-Music__ is an iOS app created specially for F-Secure to demonstrate skills in coding, organizing and documenting.
+__F-Music__ is a small iOS app created by Alexander Roschin.
 
 ##Check list:
 
