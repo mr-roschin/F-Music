@@ -1,0 +1,10 @@
+framework module LoremSwiftum {
+  umbrella header "LoremSwiftum.h"
+
+  export *
+  module * { export * }
+}
+
+module LoremSwiftum.Swift {
+    header "LoremSwiftum-Swift.h"
+}
