@@ -4,7 +4,7 @@ __F-Music__ is an iOS app created specially for F-Secure to demonstrate skills i
 
 ##Check list:
 
-1. "Create an iOS 9 app that can list 100 songs" - __DONE__.  Created an app that already stores 10 examples of songs and can store more. By adding CRUD features, a user is allowed to add own songs.
+1. "Create an iOS 9 app that can list 100 songs" - __DONE__.  (Created an app that already stores 10 examples of songs and can store more. By adding CRUD features, a user is allowed to add own songs.)
 2. "Every row in the song list should show a picture, a song title and a band name" - __DONE__.
 3. "When clicking on an item on the list, your app should show that song's details" - __DONE__
    * "Picture" - __DONE__ (additionally the album picture can be changed)
